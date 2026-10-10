@@ -1,4 +1,4 @@
-Cloud engineer in Colombia. I test new AI tools and models and post what works, what breaks, and what it costs. Follow along on X: [@Cydr4l](https://x.com/Cydr4l).
+Cloud engineer. I test new AI tools and models and post what works, what breaks, and what it costs. Follow along on X: [@Cydr4l](https://x.com/Cydr4l).
 
 ## Projects
 
