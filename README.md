@@ -2,6 +2,7 @@ Cloud engineer in Colombia. I test new AI tools and models and post what works, 
 
 ## Projects
 
+- **[skillsonar](https://github.com/0xCydral/skillsonar)**: Finds the right agent skill from a plain description of your task. Keyword, embedding and hybrid search over your own SKILL.md folders.
 - **[bloodborne_pc](https://github.com/0xCydral/bloodborne_pc)**: Bloodborne on Windows 10 and 11 from your own PS4 copy, no emulator. Launcher, DLSS, FSR 4 and XeSS upscaling, frame generation, keyboard and mouse. A fork of [deadinside28's port](https://github.com/deadinside28/bloodborne_pc).
 
 ## Stack
