@@ -3,8 +3,6 @@ Cloud engineer in Colombia. I test new AI tools and models and post what works, 
 ## Projects
 
 - **[bloodborne_pc](https://github.com/0xCydral/bloodborne_pc)**: Bloodborne on Windows 10 and 11 from your own PS4 copy, no emulator. Launcher, DLSS, FSR 4 and XeSS upscaling, frame generation, keyboard and mouse. A fork of [deadinside28's port](https://github.com/deadinside28/bloodborne_pc).
-- **[opencode-router](https://github.com/0xCydral/opencode-router)**: type a task in OpenCode and it hands it to the right specialist out of 233 agents. Local-first, with two-stage routing: embeddings, then an LLM rerank.
-- **[supabase-k8s-iac](https://github.com/0xCydral/supabase-k8s-iac)**: Supabase on Kubernetes in Azure, deployed as code with CDKTF and Helm.
 
 ## Stack
 
